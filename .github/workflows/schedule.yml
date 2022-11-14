@@ -13,5 +13,5 @@ jobs:
         uses: maxam2017/productive-box@master
         env:
           GH_TOKEN: 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
-          GIST_ID: https://gist.github.com/gogoadl/0404f39d0c3fa32cee84c2810d029ac8
+          GIST_ID: 0404f39d0c3fa32cee84c2810d029ac8
           TIMEZONE: Asia/Seoul
